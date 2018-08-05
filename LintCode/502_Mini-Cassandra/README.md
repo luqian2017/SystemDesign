@@ -1,0 +1,1 @@
+注意query返回的vector必须是按column_key排好序的，所以最好用map< int, string >来存，因为C++里面的map自动按key来排序。用vector的话比较麻烦，因为Column类不能修改。
