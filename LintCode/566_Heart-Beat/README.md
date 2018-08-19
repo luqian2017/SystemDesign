@@ -1,0 +1,1 @@
+This question is a simple test on the usage of stl map.
