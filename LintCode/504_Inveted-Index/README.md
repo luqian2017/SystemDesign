@@ -1,28 +1,3 @@
-原题网址：http://www.lintcode.com/en/problem/inverted-index/
-
-Create an inverted index with given documents.
-
- Notice
-Ensure that data does not include punctuation.
-
-Have you met this question in a real interview?  Yes
-Example
-Given a list of documents with id and content. (class Document)
-
-[
-  {
-    "id": 1,
-    "content": "This is the content of document 1 it is very short"
-  },
-  {
-    "id": 2,
-    "content": "This is the content of document 2 it is very long bilabial bilabial heheh hahaha ..."
-  },
-]
-Return an inverted index (HashMap with key is the word and value is a list of document ids).
-
-{
-   "This": [1, 2],
-   "is": [1, 2],
-   ...
-}
+这题要注意：
+1） Map()的output输出input->value.id，而不是1。因为这里是要统计每个单词对应文档的id，不是统计单词个数。
+2) Reduce（）不需要专门维护一个map<string, vector<int>>，这里直接用一个vector<int>就可以。
