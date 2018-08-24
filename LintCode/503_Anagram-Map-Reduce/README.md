@@ -1,0 +1,1 @@
+注意std::sort()可以对string排序。我们可以把一个word排序后的新word作为key。
