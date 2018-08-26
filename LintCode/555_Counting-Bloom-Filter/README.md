@@ -1,0 +1,1 @@
+这题跟Standard Bloom Filter很像，只是不能用bitset了，因为每个pos都要记counting：add()对各个pos的counting加1, remove()对各个pos的 counting–。contain()检查每个pos的counting是不是>0。
