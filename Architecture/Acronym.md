@@ -8,19 +8,30 @@ CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's
 CDN: Content Delivery Network
 CP: Consistency/Partition
 CSRF: Cross-site request forgery (a kind of security attack)
-DDL: data definition language (in database)
+DAU: Daily Active Users
+DDL: Data Definition Language (in database)
+DDOS: Denial-of-service Attack
 ESB: (in SOA)
 FMEA: Failure mode and effects analysis
-GA: general availablity (software release)
+GA: General Availablity (software release)
+GFS: Google File System
 GSLB: Global Server Load Balance
+HDFS: Hadoop Distributed File System
+IPC: Interprocess Communication
 K-V: Key-Value storage (typical example is Redis)
 LVS: Linux Virtual Server
+MAU: Monthly Active Users
+MPM: Multi-Processing Module (in Apache, for prefork)
 MVC: (in architecture)
 MVP: (in archtitecture)
+NoSQL: Not only SQL
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
 PPC: Process per connection
+QPS: Queries Per Second
 RDB: (used in Redis)
+SEO:
 SOA: Service Oriented Architecture
+SQL: Structured Query Language
 TDDL: Taobao Distributed Data Layer
 TPC: Thread per connection
 TPS: Transaction per second
