@@ -1,6 +1,7 @@
-
-
+2PC: Two-phase Commit Protocol (in distributed algorithm)
+3PC: Three-phas Commit Protocol (in distributed algorithm)
 ACID: Atomicity, Consistency, Isolation, Durability (in database)
+AIO: Asynchronous I/O
 AOF: (used in Redis)
 AP: Avaiability/Partition Tolerance
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
@@ -17,6 +18,7 @@ GA: General Availablity (software release)
 GFS: Google File System
 GSLB: Global Server Load Balance
 HDFS: Hadoop Distributed File System
+IOCP: (asynchronous in Windows?)
 IPC: Interprocess Communication
 K-V: Key-Value storage (typical example is Redis)
 LVS: Linux Virtual Server
@@ -37,4 +39,4 @@ TPC: Thread per connection
 TPS: Transaction per second
 VFS: Virtual file system
 XSS: Cross-site scripting (a kind of security attack)
-ZAB: (ZooKeeper protocol?)
+ZAB: Zookeper Atomic Broadcast Protocol (ZooKeeper protocol, similar to Paxos)
