@@ -1,9 +1,11 @@
 2PC: Two-phase Commit Protocol (in distributed algorithm)
 3PC: Three-phas Commit Protocol (in distributed algorithm)
 ACID: Atomicity, Consistency, Isolation, Durability (in database)
+AES: Advanced Encryption Standard
 AIO: Asynchronous I/O
 AOF: (used in Redis)
 AP: Avaiability/Partition Tolerance
+APC: 
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
@@ -13,6 +15,7 @@ DAU: Daily Active Users
 DBMS: database management system
 DDL: Data Definition Language (in database)
 DDOS: Denial-of-service Attack
+DES: Data Encryption Standard
 EDA: Event Driven Architecture
 ESB: Enterprise Service Bus (in SOA)
 FMEA: Failure mode and effects analysis
@@ -32,9 +35,12 @@ NoSQL: Not only SQL
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
 PPC: Process per connection
 QPS: Queries Per Second
+RC: Rivest Cipher, or alternatively, Ron's Code (used for symmetric encription)
 RDB: (used in Redis)
+RSA: Rivest–Shamir–Adleman algorithm (used to non-symmetric encrypt/decrypt message)
 RMI:
 SEO:
+SHA: Secure Hash Algorithm
 SOA: Service Oriented Architecture (used in distribued service framework)
 SOAP: Simple Object Access Protocol (used in web service)
 SQL: Structured Query Language
