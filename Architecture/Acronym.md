@@ -10,9 +10,11 @@ CDN: Content Delivery Network
 CP: Consistency/Partition
 CSRF: Cross-site request forgery (a kind of security attack)
 DAU: Daily Active Users
+DBMS: database management system
 DDL: Data Definition Language (in database)
 DDOS: Denial-of-service Attack
-ESB: (in SOA)
+EDA: Event Driven Architecture
+ESB: Enterprise Service Bus (in SOA)
 FMEA: Failure mode and effects analysis
 GA: General Availablity (software release)
 GFS: Google File System
@@ -31,8 +33,10 @@ OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericss
 PPC: Process per connection
 QPS: Queries Per Second
 RDB: (used in Redis)
+RMI:
 SEO:
-SOA: Service Oriented Architecture
+SOA: Service Oriented Architecture (used in distribued service framework)
+SOAP: Simple Object Access Protocol (used in web service)
 SQL: Structured Query Language
 TDDL: Taobao Distributed Data Layer
 TPC: Thread per connection
