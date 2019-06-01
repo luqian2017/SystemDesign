@@ -26,8 +26,8 @@ K-V: Key-Value storage (typical example is Redis)
 LVS: Linux Virtual Server
 MAU: Monthly Active Users
 MPM: Multi-Processing Module (in Apache, for prefork)
-MVC: (in architecture)
-MVP: (in archtitecture)
+MVC: Model View Controller (web framework)
+MVP: Model View Preseenter (a derivation of MVC)
 NoSQL: Not only SQL
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
 PPC: Process per connection
