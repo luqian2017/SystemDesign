@@ -6,16 +6,21 @@ AIO: Asynchronous I/O
 AOF: (used in Redis)
 AP: Avaiability/Partition Tolerance
 APC: 
+ARCS: Association Rule Clustering System Algorithm (Cluter algorithm, use data mining?)
+B2B:
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
+Blob: Binary Large Object
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
 CP: Consistency/Partition
+CRUD: Create/Read/Update/Delete (in database)
 CSRF: Cross-site request forgery (a kind of security attack)
 DAU: Daily Active Users
 DBMS: database management system
 DDL: Data Definition Language (in database)
 DDOS: Denial-of-service Attack
 DES: Data Encryption Standard
+EBS: Elastic Block Store (used in Amazon)
 EDA: Event Driven Architecture
 ESB: Enterprise Service Bus (in SOA)
 FMEA: Failure mode and effects analysis
@@ -26,6 +31,8 @@ HDFS: Hadoop Distributed File System
 IOCP: (asynchronous in Windows?)
 IPC: Interprocess Communication
 K-V: Key-Value storage (typical example is Redis)
+LAMP: Linux Apache(httpd) MySQL PHP (server architecture)
+LSM: Log Structured Merge Tree
 LVS: Linux Virtual Server
 MAU: Monthly Active Users
 MPM: Multi-Processing Module (in Apache, for prefork)
@@ -45,6 +52,7 @@ SOA: Service Oriented Architecture (used in distribued service framework)
 SOAP: Simple Object Access Protocol (used in web service)
 SQL: Structured Query Language
 TDDL: Taobao Distributed Data Layer
+TFS: Taobao File System
 TPC: Thread per connection
 TPS: Transaction per second
 VFS: Virtual file system
