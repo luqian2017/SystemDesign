@@ -12,6 +12,7 @@ BASE: Basically Available, Soft State, Eventually Consistency (the AP extension 
 Blob: Binary Large Object
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
+COW: Copy-On-Write
 CP: Consistency/Partition
 CRUD: Create/Read/Update/Delete (in database)
 CSRF: Cross-site request forgery (a kind of security attack)
@@ -39,16 +40,22 @@ LVS: Linux Virtual Server
 MAU: Monthly Active Users
 MPM: Multi-Processing Module (in Apache, for prefork)
 MVC: Model View Controller (web framework)
+MVCC: Multi-Version Concurrency Control
 MVP: Model View Preseenter (a derivation of MVC)
 NUMA: Non-Uniform Memory Access (SMP architecture)
+NFS: Network File System
 NoSQL: Not only SQL
+OLAP: Online Analytical Processing (database, e.g., Sybase IQ, Teradata)
+OLTP: Online Transaction Processing
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
+POSIX: Potable Operating System Interface
 PPC: Process per connection
 QPS: Queries Per Second
 RC: Rivest Cipher, or alternatively, Ron's Code (used for symmetric encription)
 RDB: (used in Redis)
 RSA: Rivest–Shamir–Adleman algorithm (used to non-symmetric encrypt/decrypt message)
 RMI:
+S3: Amazon Simple Storage
 SEO:
 SHA: Secure Hash Algorithm
 SMP: Symmetric Multi-Processing Architecture
