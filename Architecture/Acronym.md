@@ -15,6 +15,7 @@ CDN: Content Delivery Network
 COW: Copy-On-Write
 CP: Consistency/Partition
 CRUD: Create/Read/Update/Delete (in database)
+CS: (GFS) chunk server
 CSRF: Cross-site request forgery (a kind of security attack)
 DAU: Daily Active Users
 DBMS: database management system
@@ -62,6 +63,7 @@ SMP: Symmetric Multi-Processing Architecture
 SOA: Service Oriented Architecture (used in distribued service framework)
 SOAP: Simple Object Access Protocol (used in web service)
 SQL: Structured Query Language
+SSTable: Sorted String Table (in Google BigTable)
 TDDL: Taobao Distributed Data Layer
 TFS: Taobao File System
 TPC: Thread per connection
