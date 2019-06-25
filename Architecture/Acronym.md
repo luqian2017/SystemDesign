@@ -10,6 +10,7 @@ ARCS: Association Rule Clustering System Algorithm (Cluter algorithm, use data m
 B2B:
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
 Blob: Binary Large Object
+BDB: Berkerly DB (used in Amazon Dynamo)
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
 COW: Copy-On-Write
@@ -22,6 +23,7 @@ DBMS: database management system
 DDL: Data Definition Language (in database)
 DDOS: Denial-of-service Attack
 DES: Data Encryption Standard
+DHT: Distributed Hash Table
 DMI:
 EBS: Elastic Block Store (used in Amazon)
 EDA: Event Driven Architecture
@@ -34,6 +36,7 @@ GSLB: Global Server Load Balance
 HDFS: Hadoop Distributed File System
 IOCP: (asynchronous in Windows?)
 IPC: Interprocess Communication
+iWarp: Internet Wide Area RDMA Protocol
 K-V: Key-Value storage (typical example is Redis)
 LAMP: Linux Apache(httpd) MySQL PHP (server architecture)
 LSM: Log Structured Merge Tree
@@ -43,9 +46,10 @@ MPM: Multi-Processing Module (in Apache, for prefork)
 MVC: Model View Controller (web framework)
 MVCC: Multi-Version Concurrency Control
 MVP: Model View Preseenter (a derivation of MVC)
-NUMA: Non-Uniform Memory Access (SMP architecture)
 NFS: Network File System
 NoSQL: Not only SQL
+NUMA: Non-Uniform Memory Access (SMP architecture)
+NWR: used in Amazon Dynamo
 OLAP: Online Analytical Processing (database, e.g., Sybase IQ, Teradata)
 OLTP: Online Transaction Processing
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
@@ -54,6 +58,8 @@ PPC: Process per connection
 QPS: Queries Per Second
 RC: Rivest Cipher, or alternatively, Ron's Code (used for symmetric encription)
 RDB: (used in Redis)
+RDMA: Remote Direct Memory Access
+RoCE: RDMA over Coverged Ethernet
 RSA: Rivest–Shamir–Adleman algorithm (used to non-symmetric encrypt/decrypt message)
 RMI:
 S3: Amazon Simple Storage
@@ -66,8 +72,11 @@ SQL: Structured Query Language
 SSTable: Sorted String Table (in Google BigTable)
 TDDL: Taobao Distributed Data Layer
 TFS: Taobao File System
+TOE: TCP Offloading Engine
 TPC: Thread per connection
 TPS: Transaction per second
+U-Net: User-Net Networking
 VFS: Virtual file system
+VIA: VIrtual Interface Architecture
 XSS: Cross-site scripting (a kind of security attack)
 ZAB: Zookeper Atomic Broadcast Protocol (ZooKeeper protocol, similar to Paxos)
