@@ -78,5 +78,6 @@ TPS: Transaction per second
 U-Net: User-Net Networking
 VFS: Virtual file system
 VIA: VIrtual Interface Architecture
+WAL: Write Ahead Log
 XSS: Cross-site scripting (a kind of security attack)
 ZAB: Zookeper Atomic Broadcast Protocol (ZooKeeper protocol, similar to Paxos)
