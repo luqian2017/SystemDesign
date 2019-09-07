@@ -1,6 +1,7 @@
 2PC: Two-phase Commit Protocol (in distributed algorithm)
 3PC: Three-phas Commit Protocol (in distributed algorithm)
 ACID: Atomicity, Consistency, Isolation, Durability (in database)
+ACL: Access Control List (in Chubby, Google)
 AES: Advanced Encryption Standard
 AIO: Asynchronous I/O
 AOF: (used in Redis)
@@ -52,6 +53,7 @@ NUMA: Non-Uniform Memory Access (SMP architecture)
 NWR: used in Amazon Dynamo
 OLAP: Online Analytical Processing (database, e.g., Sybase IQ, Teradata)
 OLTP: Online Transaction Processing
+ORM: Object Relational Mapping (a database architecture, used by Alibaba)
 OSGi: Open Service Gateway initiative (OSGi Alliance, including Sun, IBM, Ericsson, etc)
 POSIX: Potable Operating System Interface
 PPC: Process per connection
@@ -79,5 +81,6 @@ U-Net: User-Net Networking
 VFS: Virtual file system
 VIA: VIrtual Interface Architecture
 WAL: Write Ahead Log
+WAS: Windows Azure Storage
 XSS: Cross-site scripting (a kind of security attack)
 ZAB: Zookeper Atomic Broadcast Protocol (ZooKeeper protocol, similar to Paxos)
