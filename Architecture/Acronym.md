@@ -10,6 +10,7 @@ APC:
 ARCS: Association Rule Clustering System Algorithm (Cluter algorithm, use data mining?)
 B2B:
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
+BIND: Berkeley Internet Name Domain
 Blob: Binary Large Object
 BDB: Berkerly DB (used in Amazon Dynamo)
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
@@ -28,6 +29,7 @@ DHT: Distributed Hash Table
 DMI:
 EBS: Elastic Block Store (used in Amazon)
 EDA: Event Driven Architecture
+EJB:
 ESB: Enterprise Service Bus (in SOA)
 FSB: Front Side Bus (I/O Bus b/w north bridge and CPU)
 FMEA: Failure mode and effects analysis
