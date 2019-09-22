@@ -36,7 +36,9 @@ FMEA: Failure mode and effects analysis
 GA: General Availablity (software release)
 GFS: Google File System
 GSLB: Global Server Load Balance
+HA: High-Availability
 HDFS: Hadoop Distributed File System
+HS: High-Scalability
 IOCP: (asynchronous in Windows?)
 IPC: Interprocess Communication
 iWarp: Internet Wide Area RDMA Protocol
@@ -45,6 +47,7 @@ LAMP: Linux Apache(httpd) MySQL PHP (server architecture)
 LSM: Log Structured Merge Tree
 LVS: Linux Virtual Server
 MAU: Monthly Active Users
+MBE: multi-bit error
 MPM: Multi-Processing Module (in Apache, for prefork)
 MVC: Model View Controller (web framework)
 MVCC: Multi-Version Concurrency Control
@@ -63,10 +66,13 @@ QPS: Queries Per Second
 RC: Rivest Cipher, or alternatively, Ron's Code (used for symmetric encription)
 RDB: (used in Redis)
 RDMA: Remote Direct Memory Access
+REST: Representational State Transfer (an interaction method b/w network client and server)
 RoCE: RDMA over Coverged Ethernet
 RSA: Rivest–Shamir–Adleman algorithm (used to non-symmetric encrypt/decrypt message)
 RMI:
+RT: response time
 S3: Amazon Simple Storage
+SBE: single bit error
 SEO:
 SHA: Secure Hash Algorithm
 SMP: Symmetric Multi-Processing Architecture
