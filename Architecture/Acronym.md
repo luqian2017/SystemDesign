@@ -13,6 +13,7 @@ BASE: Basically Available, Soft State, Eventually Consistency (the AP extension 
 BIND: Berkeley Internet Name Domain
 Blob: Binary Large Object
 BDB: Berkerly DB (used in Amazon Dynamo)
+BSON: Binary Serialized document Format (extension from JSON, used in MongoDB)
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
 COW: Copy-On-Write
