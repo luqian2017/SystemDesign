@@ -16,6 +16,7 @@ BDB: Berkerly DB (used in Amazon Dynamo)
 BSON: Binary Serialized document Format (extension from JSON, used in MongoDB)
 CAP: Consistency, Availability, Partition Tolerance (CAP theorem, a.k.a Brewer's theorem, in distributed system)
 CDN: Content Delivery Network
+CGI: Common Gateway Interface (for web service)
 COW: Copy-On-Write
 CP: Consistency/Partition
 CRUD: Create/Read/Update/Delete (in database)
