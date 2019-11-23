@@ -30,6 +30,7 @@ DES: Data Encryption Standard
 DHT: Distributed Hash Table
 DMI:
 EBS: Elastic Block Store (used in Amazon)
+EC2: (Amazon) Elastic Computer Cloud
 EDA: Event Driven Architecture
 EJB:
 ESB: Enterprise Service Bus (in SOA)
