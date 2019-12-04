@@ -4,12 +4,14 @@ ACID: Atomicity, Consistency, Isolation, Durability (in database)
 ACL: Access Control List (in Chubby, Google)
 AES: Advanced Encryption Standard
 AIO: Asynchronous I/O
+AJAX:
 AOF: (used in Redis)
 AP: Avaiability/Partition Tolerance
 APC: 
 ARCS: Association Rule Clustering System Algorithm (Cluter algorithm, use data mining?)
 B2B:
 BASE: Basically Available, Soft State, Eventually Consistency (the AP extension in CAP theorem)
+BFF: Backend For Frontend
 BIND: Berkeley Internet Name Domain
 Blob: Binary Large Object
 BDB: Berkerly DB (used in Amazon Dynamo)
@@ -82,6 +84,7 @@ SMP: Symmetric Multi-Processing Architecture
 SOA: Service Oriented Architecture (used in distribued service framework)
 SOAP: Simple Object Access Protocol (used in web service)
 SQL: Structured Query Language
+SSO:
 SSTable: Sorted String Table (in Google BigTable)
 TDDL: Taobao Distributed Data Layer
 TFS: Taobao File System

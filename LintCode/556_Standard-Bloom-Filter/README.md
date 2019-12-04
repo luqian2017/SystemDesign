@@ -1,3 +1,36 @@
+Lintcode 556. Standard Bloom Filter
+Description
+
+Implement a standard bloom filter. Support the following method:
+StandardBloomFilter(k),The constructor and you need to create k hash functions.
+add(string). add a string into bloom filter.
+contains(string). Check a string whether exists in bloom filter.
+Have you met this question in a real interview?  
+Example
+Example1
+Input:
+CountingBloomFilter(3)
+add("lint")
+add("code")
+contains("lint") 
+remove("lint")
+contains("lint") 
+
+Output: 
+[true,false]
+Example2
+Input:
+CountingBloomFilter(3)
+add("lint")
+add("lint")
+contains("lint")
+remove("lint")
+contains("lint")
+
+Output: 
+[true,false]
+
+
 参考的网上的答案。
 
 Note:
