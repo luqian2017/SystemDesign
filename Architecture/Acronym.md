@@ -5,6 +5,7 @@ ACL: Access Control List (in Chubby, Google)
 AES: Advanced Encryption Standard
 AIO: Asynchronous I/O
 AJAX:
+AMQP: Advanced Message Queuing Protocol
 AOF: (used in Redis)
 AP: Avaiability/Partition Tolerance
 APC: 
@@ -47,6 +48,7 @@ HS: High-Scalability
 IOCP: (asynchronous in Windows?)
 IPC: Interprocess Communication
 iWarp: Internet Wide Area RDMA Protocol
+JMS: Java MessageService
 K-V: Key-Value storage (typical example is Redis)
 LAMP: Linux Apache(httpd) MySQL PHP (server architecture)
 LSM: Log Structured Merge Tree
@@ -60,7 +62,7 @@ MVP: Model View Preseenter (a derivation of MVC)
 NFS: Network File System
 NoSQL: Not only SQL
 NUMA: Non-Uniform Memory Access (SMP architecture)
-NWR: used in Amazon Dynamo
+NWR: N is # of replicas, W is # of write replica, R is # of read replica. used in Amazon Dynamo
 OLAP: Online Analytical Processing (database, e.g., Sybase IQ, Teradata)
 OLTP: Online Transaction Processing
 ORM: Object Relational Mapping (a database architecture, used by Alibaba)
