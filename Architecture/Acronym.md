@@ -97,6 +97,7 @@ U-Net: User-Net Networking
 VFS: Virtual file system
 VIA: VIrtual Interface Architecture
 WAL: Write Ahead Log
+WARO: Write All Read One
 WAS: Windows Azure Storage
 XSS: Cross-site scripting (a kind of security attack)
 ZAB: Zookeper Atomic Broadcast Protocol (ZooKeeper protocol, similar to Paxos)
